@@ -1,0 +1,12 @@
+<resources>
+    <string name="place_holder_textView_text">""</string>
+    <string name="location_activity_button_text">Location Activity</string>
+    <string name="location_data_text_view_text">Location Data</string>
+    <string name="start_capture_button_text">Start Capture</string>
+    <string name="stop_capture_button_text">Stop Capture</string>
+    <string name="save_capture_button_text">Save Capture</string>
+    <string name="back_button_text">Back</string>
+
+
+
+</resources>
